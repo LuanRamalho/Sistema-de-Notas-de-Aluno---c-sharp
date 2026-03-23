@@ -1,0 +1,17 @@
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\Sistema de Notas de Aluno.exe
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\Sistema de Notas de Aluno.deps.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\Sistema de Notas de Aluno.runtimeconfig.json
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\Sistema de Notas de Aluno.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\Sistema de Notas de Aluno.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\bin\Debug\net10.0-windows\System.Data.SQLite.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.csproj.AssemblyReference.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.AssemblyInfoInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.AssemblyInfo.cs
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema .B4E5CECF.Up2Date
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\refint\Sistema de Notas de Aluno.dll
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.pdb
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\Sistema de Notas de Aluno.genruntimeconfig.cache
+E:\Meus Documentos\Programas Desenvolvidos\C# - Prgramas Desenvolvidos\Sistema de Notas de Aluno\obj\Debug\net10.0-windows\ref\Sistema de Notas de Aluno.dll
