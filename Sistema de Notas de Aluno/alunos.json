@@ -1,0 +1,82 @@
+[
+  {
+    "Matricula": "23919213",
+    "Nome": "Jo\u00E3o Carvalho",
+    "Nota1": 4.5,
+    "Nota2": 7.7,
+    "Nota3": 9.2,
+    "Nota4": 10,
+    "Media": 7.85,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "581828",
+    "Nome": "Carlos Mink",
+    "Nota1": 4.2,
+    "Nota2": 5.6,
+    "Nota3": 6.6,
+    "Nota4": 5.6,
+    "Media": 5.5,
+    "Situacao": "REPROVADO"
+  },
+  {
+    "Matricula": "321991",
+    "Nome": "Rafael Arcanjo",
+    "Nota1": 8.4,
+    "Nota2": 8.2,
+    "Nota3": 9.2,
+    "Nota4": 10,
+    "Media": 8.95,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "3823181",
+    "Nome": "F\u00E1bio Silva",
+    "Nota1": 6.5,
+    "Nota2": 7.6,
+    "Nota3": 8.4,
+    "Nota4": 9.3,
+    "Media": 7.95,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "47273",
+    "Nome": "Gabriel Marques",
+    "Nota1": 6.7,
+    "Nota2": 7.3,
+    "Nota3": 8.1,
+    "Nota4": 8.8,
+    "Media": 7.7250000000000005,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "382137",
+    "Nome": "Miguel Santos",
+    "Nota1": 6.7,
+    "Nota2": 9.2,
+    "Nota3": 6.7,
+    "Nota4": 9.3,
+    "Media": 7.975,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "3128327",
+    "Nome": "\u00CDtalo Silva",
+    "Nota1": 7.3,
+    "Nota2": 9.6,
+    "Nota3": 9.6,
+    "Nota4": 9.1,
+    "Media": 8.9,
+    "Situacao": "APROVADO"
+  },
+  {
+    "Matricula": "4642345",
+    "Nome": "William Carvalho",
+    "Nota1": 6.8,
+    "Nota2": 8.2,
+    "Nota3": 9.3,
+    "Nota4": 8.8,
+    "Media": 8.275,
+    "Situacao": "APROVADO"
+  }
+]
